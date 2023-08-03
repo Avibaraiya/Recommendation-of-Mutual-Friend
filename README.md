@@ -24,6 +24,7 @@ The application is deployed at: [https://mutual-friend-iva.netlify.app/](https:/
 
 - HTML, CSS, and JavaScript for the frontend.
 - Netlify for deployment and hosting.
+- Using Taiiwind CSS FrameWork
 
 ## Setup and Local Development
 
