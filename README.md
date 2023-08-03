@@ -1,7 +1,5 @@
 # Mutual Friend Recommendation
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX/deploy-status)](https://app.netlify.com/sites/mutual-friend-iva/deploys)
-
 ## Introduction
 
 Mutual Friend Recommendation is a web application that helps users find mutual friends between two individuals. It leverages social media data to identify common connections, making it easier for users to discover shared acquaintances.
